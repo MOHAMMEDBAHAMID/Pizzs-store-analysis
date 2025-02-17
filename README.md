@@ -34,11 +34,11 @@ I discovered this project online and conducted my own analysis based on it.
 
 - **Total Revenue:**
 
-- ![alt text](img/total.png)
+ ![alt text](img/total.png)
 
 - **Average Order Value:**
 
--   ![alt text](img/avg_per_order.png)
+   ![alt text](img/avg_per_order.png)
 
 - **Total Pizzas Sold:**  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
 
