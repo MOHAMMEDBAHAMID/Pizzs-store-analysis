@@ -42,7 +42,7 @@ I discovered this project online and conducted my own analysis based on it.
 
 - **Total Pizzas Sold:**
 
-  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
+  ![alt text](<img/total_pizza_sold.png>)
 
 - **Daily Trend for Total Orders:**
 
