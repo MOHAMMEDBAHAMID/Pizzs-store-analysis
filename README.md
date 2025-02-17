@@ -38,22 +38,40 @@ I discovered this project online and conducted my own analysis based on it.
 
 - **Average Order Value:**
 
-   ![alt text](img/avg_per_order.png)
+  ![alt text](img/avg_per_order.png)
 
-- **Total Pizzas Sold:**  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
+- **Total Pizzas Sold:**
 
-- **Daily Trend for Total Orders:**  ![alt text](img/Daily_trend.png)
+  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
 
-- **Hourly Trend for Orders:**  ![alt text](img/Hourly.png)
+- **Daily Trend for Total Orders:**
 
-- **% of Sales by Pizza Category:**  ![alt text](img/Dis_Piz_Cat.png)
+  ![alt text](img/Daily_trend.png)
 
-- **% of Sales by Pizza Size:**  ![alt text](img/Dis_Piz_Size.png)
+- **Hourly Trend for Orders:**
 
-- **Total Pizzas Sold by Pizza Category:**  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
+  ![alt text](img/Hourly.png)
 
-- **Top 5 Best Sellers by Total Pizzas Sold:**  ![alt text](<img/Top 5 Best Sellers by Total Pizzas Sold.png>)
+- **% of Sales by Pizza Category:**
 
-- **Bottom 5 Best Sellers by Total Pizzas Sold:**  ![alt text](<img/Bottom 5 Best Sellers by Total Pizzas Sold.png>)
+  ![alt text](img/Dis_Piz_Cat.png)
 
-- **Dashboard:**  ![alt text](img/Final_Dashboard.png)
+- **% of Sales by Pizza Size:**
+
+   ![alt text](img/Dis_Piz_Size.png)
+
+- **Total Pizzas Sold by Pizza Category:**
+
+  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
+
+- **Top 5 Best Sellers by Total Pizzas Sold:**
+
+  ![alt text](<img/Top 5 Best Sellers by Total Pizzas Sold.png>)
+
+- **Bottom 5 Best Sellers by Total Pizzas Sold:**
+
+  ![alt text](<img/Bottom 5 Best Sellers by Total Pizzas Sold.png>)
+
+- **Dashboard:**
+
+  ![alt text](img/Final_Dashboard.png)
