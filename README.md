@@ -13,6 +13,8 @@ I discovered this project online and conducted my own analysis based on it.
     3. Total Pizzas Sold: The sum of the quantities of all pizza sold.
     4. Total Orders: The total number of orders placed.
     5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
+
+      
 2. CHARTS Requirement:
    We would like to visualize various aspects of our pizza sales data to gain insight and understand key trends. We have identified the flowing requirements for creating charts:
    1. Daily Trend for Total Orders: Create a bar chart that displays the daily trend of total orders over a specific time period.
@@ -30,35 +32,24 @@ I discovered this project online and conducted my own analysis based on it.
 
 ### Data Analysis and Insights:
 
-- **Total Revenue:**
-  ![alt text](img/total.png)
+- **Total Revenue:** ![alt text](img/total.png)
 
-- **Average Order Value:**
-  ![alt text](img/avg_per_order.png)
+- **Average Order Value:**  ![alt text](img/avg_per_order.png)
 
-- **Total Pizzas Sold:**
-  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
+- **Total Pizzas Sold:**  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
 
-- **Daily Trend for Total Orders:**
-  ![alt text](img/Daily_trend.png)
+- **Daily Trend for Total Orders:**  ![alt text](img/Daily_trend.png)
 
-- **Hourly Trend for Orders:**
-  ![alt text](img/Hourly.png)
+- **Hourly Trend for Orders:**  ![alt text](img/Hourly.png)
 
-- **% of Sales by Pizza Category:**
-  ![alt text](img/Dis_Piz_Cat.png)
+- **% of Sales by Pizza Category:**  ![alt text](img/Dis_Piz_Cat.png)
 
-- **% of Sales by Pizza Size:**
-  ![alt text](img/Dis_Piz_Size.png)
+- **% of Sales by Pizza Size:**  ![alt text](img/Dis_Piz_Size.png)
 
-- **Total Pizzas Sold by Pizza Category:**
-  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
+- **Total Pizzas Sold by Pizza Category:**  ![alt text](<img/Total Pizzas Sold by Pizza Category.png>)
 
-- **Top 5 Best Sellers by Total Pizzas Sold:**
-  ![alt text](<img/Top 5 Best Sellers by Total Pizzas Sold.png>)
+- **Top 5 Best Sellers by Total Pizzas Sold:**  ![alt text](<img/Top 5 Best Sellers by Total Pizzas Sold.png>)
 
-- **Bottom 5 Best Sellers by Total Pizzas Sold:**
-  ![alt text](<img/Bottom 5 Best Sellers by Total Pizzas Sold.png>)
+- **Bottom 5 Best Sellers by Total Pizzas Sold:**  ![alt text](<img/Bottom 5 Best Sellers by Total Pizzas Sold.png>)
 
-- **Dashboard:**
-  ![alt text](img/Final_Dashboard.png)
+- **Dashboard:**  ![alt text](img/Final_Dashboard.png)
